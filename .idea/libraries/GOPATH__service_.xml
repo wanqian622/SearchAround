@@ -6,6 +6,7 @@
       <root url="file://$USER_HOME$/go/src/gopkg.in" />
       <root url="file://$USER_HOME$/go/src/cloud.google.com" />
       <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/go.opencensus.io" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -14,6 +15,7 @@
       <root url="file://$USER_HOME$/go/src/gopkg.in" />
       <root url="file://$USER_HOME$/go/src/cloud.google.com" />
       <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/go.opencensus.io" />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />
